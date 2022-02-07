@@ -7,4 +7,4 @@ A lesson on the Three Body Problem presented to an AP Physics C Class.
 * Presentation
 * Simulation
 
-Lecture Video (Youtube): https://www.youtube.com/watch?v=xmOHesSLZ5Q&t=1050s
+Lecture Video (Youtube): https://youtu.be/xmOHesSLZ5Q
